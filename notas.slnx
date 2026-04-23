@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/1 presentaciones/">
+    <Project Path="asp_presentacion/asp_presentacion.csproj" />
+    <Project Path="lib_presentacion/lib_presentacion.csproj" />
+  </Folder>
+  <Folder Name="/2. servicios/">
+    <Project Path="asp_servicios/asp_servicios.csproj" />
+    <Project Path="lib_servicios/lib_servicios.csproj" />
+  </Folder>
+  <Folder Name="/3. pruebas unitarias/">
+    <Project Path="ut_presentacion/ut_presentacion.csproj" Id="890a308d-9ef1-4351-86f8-43ba9439f0e9" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+</Solution>
